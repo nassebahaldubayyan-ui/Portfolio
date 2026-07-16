@@ -45,8 +45,6 @@ https://nassebah.infinityfreeapp.com/
 
 ## 📸 Preview
 
-Replace the image below with a screenshot of your portfolio.
-
 ![Portfolio Preview](Content/portfolio-preview.png)
 
 ---
