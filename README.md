@@ -47,9 +47,7 @@ https://nassebah.infinityfreeapp.com/
 
 Replace the image below with a screenshot of your portfolio.
 
-```markdown
 ![Portfolio Preview](Content/portfolio-preview.png)
-```
 
 ---
 
